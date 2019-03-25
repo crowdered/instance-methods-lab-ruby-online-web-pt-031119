@@ -11,3 +11,4 @@ def sit
 end
 
 fido = Dog.new
+fido.bark
